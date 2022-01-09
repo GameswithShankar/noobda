@@ -1,0 +1,5 @@
+{
+"ip":"GameswithShankar123.aternos.me",
+"port":" 37085"
+"name":"Ghochu"
+}
